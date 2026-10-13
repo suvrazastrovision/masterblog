@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "author": "Suvra Nath",
+    "title": "First Post",
+    "content": "This is my first post. And I am going to update it.",
+    "likes": 0
+  },
+  {
+    "id": 2,
+    "author": "J. K. Rowling",
+    "title": "Second Post",
+    "content": "This is another post. I have already updated it!",
+    "likes": 0
+  }
+]
